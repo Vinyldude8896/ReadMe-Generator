@@ -21,6 +21,31 @@ function generateMarkdown(data) {
 
 ## ${data.description}
 
+## License
+
+## badges
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+## Table of Contents
+
+- [installation](#installation)
+- [contribution guidelines] (#contribution)
+- [Test Instructions] (#testing)
+- [License] (#license)
+- Questions (#questions)
+
+## ${data.installation}
+
+
+## ${data.contribution}
+
+## ${data.testing}
+
+## ${data.github}
+
+## Questions
+    ${data.email}
+    - 
+    ${data.contact}
 `;
 }
 

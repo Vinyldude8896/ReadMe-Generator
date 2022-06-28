@@ -7,7 +7,7 @@ const generatePage = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = ['What is the Title of your project?', 'Please provide a description of your project?', 'Please provide the installation instructions for your project:','Please provide the contribution guidelines:', 'Please provide the test instructions for your application:', 'Please provide your GitHub username:', 'Please provide your email adddress:', 'Please provide any addition contact instructions:'];
-const labels = ['title', 'description', 'installation', 'Contribution', 'Testing', 'GitHub', 'email', 'Contact']
+const labels = ['title', 'description', 'installation', 'contribution', 'testing', 'github', 'email', 'contact']
 
 
 const promptUser = () =>{
@@ -38,84 +38,84 @@ const promptUser = () =>{
                 }
             }
         },
-        // {
-        //     type: 'input',
-        //     name: labels[2],
-        //     message: questions[2],
-        //     validate:  inputUserData = () => {
-        //         if (inputUserData) {
-        //             return true;
-        //         } else {
-        //         console.log("You need to enter a valid response.");
-        //             return false;
-        //         }
-        //     }
-        // },
-        // {
-        //     type: 'input',
-        //     name: labels[3],
-        //     message: questions[3],
-        //     validate:  inputUserData = () => {
-        //         if (inputUserData) {
-        //             return true;
-        //         } else {
-        //         console.log("You need to enter a valid response.");
-        //             return false;
-        //         }
-        //     }
-        // },
-        // {
-        //     type: 'input',
-        //     name: labels[4],
-        //     message: questions[4],
-        //     validate:  inputUserData = () => {
-        //         if (inputUserData) {
-        //             return true;
-        //         } else {
-        //         console.log("You need to enter a valid response.");
-        //             return false;
-        //         }
-        //     }
-        // },
-        // {
-        //     type: 'input',
-        //     name: labels[5],
-        //     message: questions[5],
-        //     validate:  inputUserData = () => {
-        //         if (inputUserData) {
-        //             return true;
-        //         } else {
-        //         console.log("You need to enter a valid response.");
-        //             return false;
-        //         }
-        //     }
-        // },
-        // {
-        //     type: 'input',
-        //     name: labels[6],
-        //     message: questions[6],
-        //     validate:  inputUserData = () => {
-        //         if (inputUserData) {
-        //             return true;
-        //         } else {
-        //         console.log("You need to enter a valid response.");
-        //             return false;
-        //         }
-        //     }
-        // },
-        // {
-        //     type: 'input',
-        //     name: labels[7],
-        //     message: questions[7],
-        //     validate:  inputUserData = () => {
-        //         if (inputUserData) {
-        //             return true;
-        //         } else {
-        //         console.log("You need to enter a valid response.");
-        //             return false;
-        //         }
-        //     }
-        // },
+        {
+            type: 'input',
+            name: labels[2],
+            message: questions[2],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: labels[3],
+            message: questions[3],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: labels[4],
+            message: questions[4],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: labels[5],
+            message: questions[5],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: labels[6],
+            message: questions[6],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: labels[7],
+            message: questions[7],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
     ])
 }
 
