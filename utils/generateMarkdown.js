@@ -29,16 +29,19 @@ function generateMarkdown(data) {
 
 - [installation](#installation)
 - [contribution guidelines] (#contribution)
-- [Test Instructions] (#testing)
+- [Test Instructions] (#test instrcutions)
 - [License] (#license)
 - Questions (#questions)
 
-## ${data.installation}
+## Installation 
+  ${data.installation} 
 
 
-## ${data.contribution}
+## Contribution  
+  ${data.contribution}
 
-## ${data.testing}
+## Test Instructions
+  ${data.testing}
 
 ## ${data.github}
 

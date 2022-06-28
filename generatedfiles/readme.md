@@ -1,6 +1,6 @@
-# Weather Dashboard
+# Artist Music Tours
 
-## This application will provide you the weather forecast for whichever city you search
+## This will provide you concert listings, discograohy and some youtube content based on the artist searched. You can also link out to buy tickets, or buy albums.
 
 ## License
 
@@ -10,16 +10,19 @@
 
 - [installation](#installation)
 - [contribution guidelines] (#contribution)
-- [Test Instructions] (#testing)
+- [Test Instructions] (#test instrcutions)
 - [License] (#license)
 - Questions (#questions)
 
-## This does not need to be installed, you can use the live link
+## Installation 
+  No installation - web based app located here: https://github.com/Vinyldude8896/Artist_Music_Tour 
 
 
-## Please contribute to the project
+## Contribution  
+  Used several technologies, including third party API's, HTML, JavaScript and Tailwind
 
-## If you would like to test the application, try searching multiple cities and use the search history to go back
+## Test Instructions
+  Testing was done by using various search results and page content functions
 
 ## Vinyldude8896
 
