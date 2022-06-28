@@ -9,11 +9,11 @@
 ## Table of Contents
 
 - [installation](#installation)
-- [contribution] (#contribution)
-- [Testing] (#testing)
-- [GitHub] (#github)
-- [License] (#license)
-- [Questions] (#questions)
+- [contribution](#contribution)
+- [Testing](#testing)
+- [GitHub](#github)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation 
    No installation - web based app located here: https://github.com/Vinyldude8896/Artist_Music_Tour  
