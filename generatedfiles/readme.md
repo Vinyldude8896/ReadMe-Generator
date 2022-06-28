@@ -9,22 +9,24 @@
 ## Table of Contents
 
 - [installation](#installation)
-- [contribution guidelines] (#contribution)
-- [Test Instructions] (#test instrcutions)
+- [contribution] (#contribution)
+- [Testing] (#testing)
+- [GitHub] (#github)
 - [License] (#license)
-- Questions (#questions)
+- [Questions] (#questions)
 
 ## Installation 
-  No installation - web based app located here: https://github.com/Vinyldude8896/Artist_Music_Tour 
+   No installation - web based app located here: https://github.com/Vinyldude8896/Artist_Music_Tour  
 
 
 ## Contribution  
   Used several technologies, including third party API's, HTML, JavaScript and Tailwind
 
-## Test Instructions
-  Testing was done by using various search results and page content functions
+## Testing
+  Testing was done for search and functionality
 
-## Vinyldude8896
+## Github 
+Vinyldude8896
 
 ## Questions
     kevinnivek@me.com

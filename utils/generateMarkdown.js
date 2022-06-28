@@ -28,10 +28,11 @@ function generateMarkdown(data) {
 ## Table of Contents
 
 - [installation](#installation)
-- [contribution guidelines] (#contribution)
-- [Test Instructions] (#test instrcutions)
+- [contribution] (#contribution)
+- [Testing] (#testing)
+- [GitHub] (#github)
 - [License] (#license)
-- Questions (#questions)
+- [Questions] (#questions)
 
 ## Installation 
   ${data.installation} 
@@ -40,10 +41,11 @@ function generateMarkdown(data) {
 ## Contribution  
   ${data.contribution}
 
-## Test Instructions
+## Testing
   ${data.testing}
 
-## ${data.github}
+## Github 
+${data.github}
 
 ## Questions
     ${data.email}
