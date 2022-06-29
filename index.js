@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const fileModilfier = require('fs');
 const generatePage = require('./utils/generateMarkdown');
-// const writeFile = require('./utils/generateMarkdown');
+const renderLicenseBadge = require('./utils/generateMarkdown');
 
 // an array of questions for user input as well as object labels, and one for license options
 const questions = ['What is the Title of your project?', 'Please provide a description of your project?', 'Please provide the installation instructions for your project:','Please provide the contribution guidelines:', 'Please provide the test instructions for your application:', 'Please provide your GitHub username:', 'Please provide your email adddress:', 'Please provide any addition contact instructions:'];
@@ -170,7 +170,10 @@ const writeToFile = fileContent => {
 promptUser()
     .then(inputUserData =>{
         console.log(inputUserData);
-        return generatePage(inputUserData);
+        return generatePage(inputUserData);   
+    })
+    .then (LicenseData => {
+        return renderLicenseBadge(LicenseData);
     })
     .then(pageReadMe => {
         return writeToFile(pageReadMe);

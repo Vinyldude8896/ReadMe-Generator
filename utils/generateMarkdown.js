@@ -5,7 +5,11 @@ const licenseIcons = ['/apm/l/:', '	/aur/license/:', '/bower/l/:', '/cocoapods/l
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(LicenseData) {
+  console.log("The License used is " + LicenseData.license);
+  return;
+
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -55,3 +59,4 @@ ${data.github}
 }
 
 module.exports = generateMarkdown;
+module.exports = renderLicenseBadge;

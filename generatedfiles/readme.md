@@ -1,6 +1,6 @@
-# Artist Music Tours
+# Weather Dashboard
 
-## This will provide you concert listings, discograohy and some youtube content based on the artist searched. You can also link out to buy tickets, or buy albums.
+## Gives the weather info for city searched
 
 ## License
 
@@ -16,14 +16,14 @@
 - [Questions](#questions)
 
 ## Installation 
-   No installation - web based app located here: https://github.com/Vinyldude8896/Artist_Music_Tour  
+  just use the live link 
 
 
 ## Contribution  
-  Used several technologies, including third party API's, HTML, JavaScript and Tailwind
+  none
 
 ## Testing
-  Testing was done for search and functionality
+  test as much as you want
 
 ## Github 
 Vinyldude8896
@@ -31,4 +31,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    Phone: 289-688-8896
+    PHONE: 289-688-8896
