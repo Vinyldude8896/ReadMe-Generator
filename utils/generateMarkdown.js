@@ -5,10 +5,16 @@ const licenseIcons = ['/apm/l/:', '	/aur/license/:', '/bower/l/:', '/cocoapods/l
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(LicenseData) {
-  console.log("The License used is " + LicenseData.license);
-  return;
-
+function renderLicenseBadge(licenseData) {  
+  if (!licenseData) {
+    return `""
+    `
+  } else {
+    if(licenseData)
+    return `
+    ![APM](https://img.shields.io/apm/l/vim-mode)
+    `
+  }
 }
 
 // TODO: Create a function that returns the license link
@@ -17,7 +23,12 @@ function renderLicenseLink(license) {}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+function renderLicenseSection(licenseData) {
+  return `
+  ## License
+  ${licenseData}
+  `
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -25,7 +36,8 @@ function generateMarkdown(data) {
 
 ## ${data.description}
 
-## License
+${renderLicenseSection(data.license)}
+${renderLicenseBadge(data.license)}
 
 ## badges
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
@@ -58,5 +70,5 @@ ${data.github}
 `;
 }
 
+
 module.exports = generateMarkdown;
-module.exports = renderLicenseBadge;

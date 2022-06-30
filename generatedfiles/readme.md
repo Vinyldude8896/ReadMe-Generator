@@ -1,8 +1,14 @@
-# Weather Dashboard
+# Artist Music Tour
 
-## Gives the weather info for city searched
+## Provides concert listings, discography and youtube videos based on artist searched
 
-## License
+
+  ## License
+  APM
+  
+
+    ![APM](https://img.shields.io/apm/l/vim-mode)
+    
 
 ## badges
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
@@ -16,14 +22,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  just use the live link 
+  no install: use web app link 
 
 
 ## Contribution  
   none
 
 ## Testing
-  test as much as you want
+  test multiple artist searches
 
 ## Github 
 Vinyldude8896
@@ -31,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    PHONE: 289-688-8896
+    cell:555-555-0000
