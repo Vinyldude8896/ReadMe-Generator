@@ -1,6 +1,6 @@
-# Artist Music Tours
+# Weather Dashboard
 
-## This web app will allow you to search your favorite artists, and return current concerts, some album discography and a few youTube search results.
+## This app will give you the current forecast and a 5 day forecast of weather results based on city searched
 
 
   ## License
@@ -24,14 +24,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  No installation needed. Just use the live web app. 
+  no installation needed. Just use the hany web app. 
 
 
 ## Contribution  
-  This was a group project
+  N/A
 
 ## Testing
-  test multiple search criteria
+  test multiple city searches
 
 ## Github 
 Vinyldude8896
@@ -39,4 +39,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 289-688-8896
+    cell: 222-333-4444

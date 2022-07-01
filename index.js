@@ -1,7 +1,6 @@
 // packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-const fileModilfier = require('fs');
 const generatePage = require('./utils/generateMarkdown');
 const renderLicenseBadge = require('./utils/generateMarkdown');
 const renderLicenseSection = require('./utils/generateMarkdown');
@@ -10,7 +9,7 @@ const renderLicenseSection = require('./utils/generateMarkdown');
 const questions = ['What is the Title of your project?', 'Please provide a description of your project?', 'Please provide the installation instructions for your project:','Please provide the contribution guidelines:', 'Please provide the test instructions for your application:', 'Please provide your GitHub username:', 'Please provide your email adddress:', 'Please provide any addition contact instructions:'];
 const labels = ['title', 'description', 'installation', 'contribution', 'testing', 'github', 'email', 'contact', 'license']
 const license = ['APM', 'AUR', 'Bower', 'Cocoapods', 'Conda', 'CPAN', 'CRAN/METCRAN', 'Crates.io', 'CTA', 'DUB', 'Eclipse Marketplace', 'GitHub', 'GitLab', 'gitLab(Self-Managed)', 'Greasy Fork', 'Hex.pm', 'NPM', 'Ore License', 'Packagist License', 'Packagist License(custom Server)', 'PyPI', 'REUSE Compliance', 'weblate componenet license', 'None of the above' ];
-const licenseChosen = []; 
+
 // function to as user each question in the array as an input prompt
 const promptUser = () =>{
     return inquirer.prompt([
@@ -118,6 +117,7 @@ const promptUser = () =>{
                 }
             }
         },
+        // this question is a multiple choice checkbox option
         {
             type: 'checkbox',
             name: labels[8],
