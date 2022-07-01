@@ -63,6 +63,8 @@ ${renderLicenseBadge(data.license)}
 ## Installation 
   ${data.installation} 
 
+## Usage
+  ${data.usage}
 
 ## Contribution  
   ${data.contribution}
