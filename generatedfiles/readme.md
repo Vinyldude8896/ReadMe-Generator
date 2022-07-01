@@ -1,18 +1,15 @@
-# This awesome project
+# Weather Dashboard
 
-## it does stuff and tells stuff and is stuff
+## gives daily and 5 day forecast
 
 
   ## License
-  Bower
+  AUR
   
 
 
 ## badges
-
-      ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
-      ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
-      ![status up](https://napkin-examples.npkn.net/site-status-badge/)
+![AUR](https://img.shields.io/badge/AUR-License-yellowgreen)
     
 ![Bower](https://img.shields.io/badge/Bower-License-blue)
 ## Table of Contents
@@ -25,14 +22,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  install no way man 
+  no install needed - use live web app 
 
 
 ## Contribution  
-  no way
+  none
 
 ## Testing
-  test if you want to
+  test multiple city searches
 
 ## Github 
 Vinyldude8896
@@ -40,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 233-455-6677
+    cell: 289-777-8888
