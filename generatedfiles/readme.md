@@ -4,13 +4,13 @@
 
 
   ## License
-  Eclipse Marketplace
+  Cocoapods
   
-https://img.shields.io/badge/Eclipse Marketplace-License-blue
+https://img.shields.io/badge/Cocoapods-License-blue
     
 
 ## badges
-![Eclipse Marketplace](https://img.shields.io/badge/Eclipse Marketplace-License-blue)
+![Cocoapods](https://img.shields.io/badge/Cocoapods-License-blue)
     
 
 
@@ -41,4 +41,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell :222-333-4444
+    cell: 222-555-9876
