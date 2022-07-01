@@ -6,9 +6,9 @@ const renderLicenseBadge = require('./utils/generateMarkdown');
 const renderLicenseSection = require('./utils/generateMarkdown');
 
 // an array of questions for user input as well as object labels, and one for license options
-const questions = ['What is the Title of your project?', 'Please provide a description of your project?', 'Please provide the installation instructions for your project:','Please provide the contribution guidelines:', 'Please provide the test instructions for your application:', 'Please provide your GitHub username:', 'Please provide your email adddress:', 'Please provide any addition contact instructions:'];
-const labels = ['title', 'description', 'installation', 'contribution', 'testing', 'github', 'email', 'contact', 'license']
-const license = ['APM', 'AUR', 'Bower', 'Cocoapods', 'Conda', 'CPAN', 'CRAN/METCRAN', 'Crates.io', 'CTA', 'DUB', 'Eclipse Marketplace', 'GitHub', 'GitLab', 'gitLab(Self-Managed)', 'Greasy Fork', 'Hex.pm', 'NPM', 'Ore License', 'Packagist License', 'Packagist License(custom Server)', 'PyPI', 'REUSE Compliance', 'weblate componenet license', 'None of the above' ];
+const questions = ['What is the Title of your project?', 'Please provide a description of your project?', 'Please provide the installation instructions for your project:','Please Provide any usage criteria:','Please provide the contribution guidelines:', 'Please provide the test instructions for your application:', 'Please provide your GitHub username:', 'Please provide your email adddress:', 'Please provide any addition contact instructions:'];
+const labels = ['title', 'description', 'installation', 'usage','contribution', 'testing', 'github', 'email', 'contact', 'license']
+const license = ['APM', 'AUR', 'Bower', 'Cocoapods', 'Conda', 'CPAN', 'CRAN/METCRAN', 'Crates.io', 'CTA', 'DUB', 'EclipseMarketplace', 'GitHub', 'GitLab', 'gitLab(Self-Managed)', 'Greasy Fork', 'Hex.pm', 'NPM', 'Ore License', 'Packagist License', 'Packagist License(custom Server)', 'PyPI', 'REUSE Compliance', 'weblate componenet license', 'None of the above' ];
 
 // function to as user each question in the array as an input prompt
 const promptUser = () =>{
@@ -117,10 +117,23 @@ const promptUser = () =>{
                 }
             }
         },
+        {
+            type: 'input',
+            name: labels[8],
+            message: questions[8],
+            validate:  inputUserData = () => {
+                if (inputUserData) {
+                    return true;
+                } else {
+                console.log("You need to enter a valid response.");
+                    return false;
+                }
+            }
+        },
         // this question is a multiple choice checkbox option
         {
             type: 'checkbox',
-            name: labels[8],
+            name: labels[9],
             message: ' Does your project have one of these licenses?(required)',
             choices: license, 
         }
