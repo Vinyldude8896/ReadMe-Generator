@@ -13,6 +13,7 @@ function renderLicenseBadge(licenseData) {
     if(licenseData){
       return `
       ![${licenseData}](https://img.shields.io/badge/${licenseData}-License-yellowgreen)
+      !\[${licenseData}\](https://img.shields.io/badge/${licenseData}-License-yellowgreen)
     `
   }
   }
