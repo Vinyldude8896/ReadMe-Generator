@@ -12,7 +12,7 @@ function renderLicenseBadge(licenseData) {
   } else {
     if(licenseData){
       return `
-      ![${licenseData}](https://img.shields.io/${licenseData}/l/bootstrap)
+      ![${licenseData}](https://img.shields.io/badge/${licenseData}-License-yellowgreen)
     `
   }
   }

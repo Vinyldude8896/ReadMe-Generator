@@ -1,6 +1,6 @@
-# Artist Music Tours
+# Weather Dashboard
 
-## Gives discography, concert listings and youtube search resulkts based on artist searched
+## weather forecast
 
 
   ## License
@@ -10,7 +10,7 @@
 
 ## badges
 
-      ![Bower](https://img.shields.io/Bower/l/bootstrap)
+      ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
     
 ## Table of Contents
 
@@ -22,14 +22,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install needed, use live web app 
+  use web app 
 
 
 ## Contribution  
   none
 
 ## Testing
-  test multiple searches
+  test city searches
 
 ## Github 
 Vinyldude8896
@@ -37,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 123-456-7890
+    cell: 289-000-9999
