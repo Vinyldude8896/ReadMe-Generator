@@ -22,7 +22,7 @@ function renderLicenseLink(licenseLink) {
     `
   } else {
     if(licenseLink){
-      return `!https://img.shields.io/badge/${licenseLink}-License-blue)
+      return `https://img.shields.io/badge/${licenseLink}-License-blue
     `
   }
   }
