@@ -4,13 +4,13 @@
 
 
   ## License
-  Cocoapods
+  Bower
   
-https://img.shields.io/badge/Cocoapods-License-blue
+https://img.shields.io/badge/Bower-License-blue
     
 
 ## badges
-![Cocoapods](https://img.shields.io/badge/Cocoapods-License-blue)
+![Bower](https://img.shields.io/badge/Bower-License-blue)
     
 
 
@@ -33,10 +33,10 @@ https://img.shields.io/badge/Cocoapods-License-blue
   This was a group effort among 5 team members
 
 ## Testing
-  testing was done over a week to ensure successful data was returned.
+  Test multiple artists searches to make sure you get results returned
 
 ## Questions
-Vinyldude8896
-kevvek1110@yahoo.ca
+  ###ThisGitHubUser
+  ###thisisMe@yahoo.ca
   - 
-    cell: 222-000-7777
+    ###cell: 222-777-9090

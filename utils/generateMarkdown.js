@@ -73,10 +73,10 @@ ${renderLicenseBadge(data.license)}
   ${data.testing}
 
 ## Questions
-${data.github}
-${data.email}
+  ###${data.github}
+  ###${data.email}
   - 
-    ${data.contact}
+    ###${data.contact}
 `;
 }
 
