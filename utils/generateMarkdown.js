@@ -12,7 +12,7 @@ function renderLicenseBadge(licenseData) {
   } else {
     if(licenseData){
       return `
-      ![${licenseData}](https://img.shields.io/github/languages/top/lernantino/${licenseData})
+      ![${licenseData}](https://img.shields.io/${licenseData}/l/bootstrap)
     `
   }
   }

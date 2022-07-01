@@ -1,6 +1,6 @@
-# Weather Dashboard
+# Artist Music Tours
 
-## Gives weather forecast for the day and 5 days ahead
+## Gives discography, concert listings and youtube search resulkts based on artist searched
 
 
   ## License
@@ -10,7 +10,7 @@
 
 ## badges
 
-      ![Bower](https://img.shields.io/github/languages/top/lernantino/Bower)
+      ![Bower](https://img.shields.io/Bower/l/bootstrap)
     
 ## Table of Contents
 
@@ -22,14 +22,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no installation - use web link 
+  no install needed, use live web app 
 
 
 ## Contribution  
   none
 
 ## Testing
-  testing 1 2 3
+  test multiple searches
 
 ## Github 
 Vinyldude8896
@@ -37,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 289-000-9999
+    cell: 123-456-7890
