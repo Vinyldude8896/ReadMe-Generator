@@ -4,13 +4,13 @@
 
 
   ## License
-  undefined
+  Cocoapods
   
-""
+!https://img.shields.io/badge/Cocoapods-License-blue)
     
 
 ## badges
-""
+![Cocoapods](https://img.shields.io/badge/Cocoapods-License-blue)
     
 
 
@@ -41,4 +41,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    Conda
+    cell: 222-333-0000

@@ -133,7 +133,7 @@ const promptUser = () =>{
         // this question is a multiple choice checkbox option
         {
             type: 'checkbox',
-            name: labels[8],
+            name: labels[9],
             message: ' Does your project have one of these licenses?(required)',
             choices: license, 
         }
