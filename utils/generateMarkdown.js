@@ -72,12 +72,10 @@ ${renderLicenseBadge(data.license)}
 ## Testing
   ${data.testing}
 
-## Github 
-${data.github}
-
 ## Questions
-    ${data.email}
-    - 
+${data.github}
+${data.email}
+  - 
     ${data.contact}
 `;
 }

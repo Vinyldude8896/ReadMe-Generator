@@ -35,10 +35,8 @@ https://img.shields.io/badge/Cocoapods-License-blue
 ## Testing
   testing was done over a week to ensure successful data was returned.
 
-## Github 
-Vinyldude8896
-
 ## Questions
-    kevinnivek@me.com
-    - 
-    cell: 222-555-9876
+Vinyldude8896
+kevvek1110@yahoo.ca
+  - 
+    cell: 222-000-7777
