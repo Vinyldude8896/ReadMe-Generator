@@ -10,10 +10,11 @@ function renderLicenseBadge(licenseData) {
     return `""
     `
   } else {
-    if(licenseData)
-    return `
-    ![APM](https://img.shields.io/apm/l/vim-mode)
+    if(licenseData){
+      return `
+      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<${licenseData}>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
     `
+  }
   }
 }
 

@@ -1,13 +1,13 @@
-# Artist Music Tour
+# Artist Music Tours
 
-## Provides concert listings, discography and youtube videos based on artist searched
+## discograohy and stuff
 
 
   ## License
-  APM
+  Conda
   
 
-    ![APM](https://img.shields.io/apm/l/vim-mode)
+      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<Conda>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
     
 
 ## badges
@@ -22,14 +22,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install: use web app link 
+  no install, use web link 
 
 
 ## Contribution  
   none
 
 ## Testing
-  test multiple artist searches
+  testing is good
 
 ## Github 
 Vinyldude8896
@@ -37,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell:555-555-0000
+    cell:111-222-3333
