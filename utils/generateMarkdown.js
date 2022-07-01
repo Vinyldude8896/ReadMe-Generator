@@ -11,7 +11,7 @@ function renderLicenseBadge(licenseData) {
     `
   } else {
     if(licenseData){
-      return `![${licenseData}](https://img.shields.io/badge/${licenseData}-License-yellowgreen)
+      return `![${licenseData}](https://img.shields.io/badge/${licenseData}-License-blue)
     `
   }
   }
@@ -19,7 +19,18 @@ function renderLicenseBadge(licenseData) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(licenseLink) {
+  if (!licenseLink) {
+    return `""
+    `
+  } else {
+    if(licenseLink){
+      return `!https://img.shields.io/badge/${licenseLink}-License-blue)
+    `
+  }
+  }
+}
+
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -37,11 +48,12 @@ function generateMarkdown(data) {
 ## ${data.description}
 
 ${renderLicenseSection(data.license)}
-
+${renderLicenseLink(data.license)}
 
 ## badges
 ${renderLicenseBadge(data.license)}
-![Bower](https://img.shields.io/badge/Bower-License-blue)
+
+
 ## Table of Contents
 
 - [installation](#installation)

@@ -1,17 +1,19 @@
-# Weather Dashboard
+# Artist Music Tours
 
-## gives daily and 5 day forecast
+## This web app will allow you to search your favorite artists, and return current concerts, some album discography and a few youTube search results.
 
 
   ## License
-  AUR
+  Cocoapods
   
-
+!https://img.shields.io/badge/Cocoapods-License-blue)
+    
 
 ## badges
-![AUR](https://img.shields.io/badge/AUR-License-yellowgreen)
+![Cocoapods](https://img.shields.io/badge/Cocoapods-License-blue)
     
-![Bower](https://img.shields.io/badge/Bower-License-blue)
+
+
 ## Table of Contents
 
 - [installation](#installation)
@@ -22,14 +24,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install needed - use live web app 
+  No installation needed. Just use the live web app. 
 
 
 ## Contribution  
-  none
+  This was a group project
 
 ## Testing
-  test multiple city searches
+  test multiple search criteria
 
 ## Github 
 Vinyldude8896
@@ -37,4 +39,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 289-777-8888
+    cell: 289-688-8896
