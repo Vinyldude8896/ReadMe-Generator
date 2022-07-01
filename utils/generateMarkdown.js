@@ -44,6 +44,7 @@ ${renderLicenseSection(data.license)}
 
 ## badges
 ${renderLicenseBadge(data.license)}
+![Bower](https://img.shields.io/bower/l/bootstrap)
 ## Table of Contents
 
 - [installation](#installation)

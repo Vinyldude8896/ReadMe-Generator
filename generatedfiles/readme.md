@@ -1,6 +1,6 @@
-# This awesome title
+# This awesome project
 
-## does stuff
+## it does cool stuff
 
 
   ## License
@@ -14,6 +14,7 @@
       ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
       ![status up](https://napkin-examples.npkn.net/site-status-badge/)
     
+![Bower](https://img.shields.io/bower/l/bootstrap)
 ## Table of Contents
 
 - [installation](#installation)
@@ -24,7 +25,7 @@
 - [Questions](#questions)
 
 ## Installation 
-  web app only 
+  no install - just use web link 
 
 
 ## Contribution  
@@ -34,9 +35,9 @@
   testing 123
 
 ## Github 
-kevin
+Vinyldude8896
 
 ## Questions
-    kevin
+    kevinnivek@me.com
     - 
-    cell
+    cell: 238-09807777
