@@ -1,13 +1,15 @@
-# Artist Music Tours
+# This awesome Title
 
-## discograohy and stuff
+## it does stuff!
 
 
   ## License
-  Conda
+  Bower
   
 
-      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<Conda>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+      [<img alt="alt_text" width="40px" src="
+      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<Bower>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>"
+      />]
     
 
 ## badges
@@ -22,14 +24,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install, use web link 
+  no install! web link 
 
 
 ## Contribution  
   none
 
 ## Testing
-  testing is good
+  testing 123
 
 ## Github 
 Vinyldude8896
@@ -37,4 +39,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell:111-222-3333
+    ce;;:: 123-456-6789

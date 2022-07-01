@@ -12,7 +12,9 @@ function renderLicenseBadge(licenseData) {
   } else {
     if(licenseData){
       return `
-      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<${licenseData}>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+      [<img alt="alt_text" width="40px" src="
+      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<${licenseData}>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>"
+      />]
     `
   }
   }
