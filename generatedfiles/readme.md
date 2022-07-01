@@ -1,15 +1,13 @@
-# This awesome Title
+# Artist Music Tours
 
-## it does stuff!
+## concerts, discography and youtrube
 
 
   ## License
   Bower
   
 
-      [<img alt="alt_text" width="40px" src="
-      https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<Bower>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>"
-      />]
+      ![Bower}](https://img.shields.io/github/languages/top/lernantino/Bower)
     
 
 ## badges
@@ -24,14 +22,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install! web link 
+  none, use web link 
 
 
 ## Contribution  
   none
 
 ## Testing
-  testing 123
+  testing 1 2 3
 
 ## Github 
 Vinyldude8896
@@ -39,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    ce;;:: 123-456-6789
+    cell: 333-444-5555
