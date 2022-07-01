@@ -1,6 +1,6 @@
 # This awesome project
 
-## it does cool stuff
+## it does stuff and tells stuff and is stuff
 
 
   ## License
@@ -14,7 +14,7 @@
       ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
       ![status up](https://napkin-examples.npkn.net/site-status-badge/)
     
-![Bower](https://img.shields.io/bower/l/bootstrap)
+![Bower](https://img.shields.io/badge/Bower-License-blue)
 ## Table of Contents
 
 - [installation](#installation)
@@ -25,14 +25,14 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install - just use web link 
+  install no way man 
 
 
 ## Contribution  
-  none
+  no way
 
 ## Testing
-  testing 123
+  test if you want to
 
 ## Github 
 Vinyldude8896
@@ -40,4 +40,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 238-09807777
+    cell: 233-455-6677
