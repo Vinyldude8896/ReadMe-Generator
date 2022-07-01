@@ -14,6 +14,7 @@ function renderLicenseBadge(licenseData) {
       return `
       ![${licenseData}](https://img.shields.io/badge/${licenseData}-License-yellowgreen)
       !\[${licenseData}\](https://img.shields.io/badge/${licenseData}-License-yellowgreen)
+      !\[status up\](https://napkin-examples.npkn.net/site-status-badge/)
     `
   }
   }

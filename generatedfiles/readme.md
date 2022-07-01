@@ -1,6 +1,6 @@
-# Artist Music Tours
+# This awesome title
 
-## Gives concert listings, discography and youtube seacrh results
+## does stuff
 
 
   ## License
@@ -12,6 +12,7 @@
 
       ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
       ![Bower](https://img.shields.io/badge/Bower-License-yellowgreen)
+      ![status up](https://napkin-examples.npkn.net/site-status-badge/)
     
 ## Table of Contents
 
@@ -23,19 +24,19 @@
 - [Questions](#questions)
 
 ## Installation 
-  no install, use live web app 
+  web app only 
 
 
 ## Contribution  
   none
 
 ## Testing
-  test multiple artist searches
+  testing 123
 
 ## Github 
-Vinyldude8896
+kevin
 
 ## Questions
-    kevinnivek@me.com
+    kevin
     - 
-    cell: 234-908-0009
+    cell
