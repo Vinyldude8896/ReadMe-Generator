@@ -12,7 +12,7 @@ function renderLicenseBadge(licenseData) {
   } else {
     if(licenseData){
       return `
-      ![${licenseData}}](https://img.shields.io/github/languages/top/lernantino/${licenseData})
+      ![${licenseData}](https://img.shields.io/github/languages/top/lernantino/${licenseData})
     `
   }
   }
@@ -38,10 +38,10 @@ function generateMarkdown(data) {
 ## ${data.description}
 
 ${renderLicenseSection(data.license)}
-${renderLicenseBadge(data.license)}
+
 
 ## badges
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+${renderLicenseBadge(data.license)}
 ## Table of Contents
 
 - [installation](#installation)

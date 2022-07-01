@@ -1,17 +1,17 @@
-# Artist Music Tours
+# Weather Dashboard
 
-## concerts, discography and youtrube
+## Gives weather forecast for the day and 5 days ahead
 
 
   ## License
   Bower
   
 
-      ![Bower}](https://img.shields.io/github/languages/top/lernantino/Bower)
-    
 
 ## badges
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+      ![Bower](https://img.shields.io/github/languages/top/lernantino/Bower)
+    
 ## Table of Contents
 
 - [installation](#installation)
@@ -22,7 +22,7 @@
 - [Questions](#questions)
 
 ## Installation 
-  none, use web link 
+  no installation - use web link 
 
 
 ## Contribution  
@@ -37,4 +37,4 @@ Vinyldude8896
 ## Questions
     kevinnivek@me.com
     - 
-    cell: 333-444-5555
+    cell: 289-000-9999
