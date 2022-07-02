@@ -36,7 +36,7 @@ https://img.shields.io/badge/Cocoapods-License-blue
   Feel free to test multiple artist searches.
 
 ## Questions
-  GitHub Username: ThisisMyGitHub
-  email address : ThisIsMe@yahoo.ca
-  - additional instructions 
-  Cell: 222-000-9876
+  - GitHub Username: ThisIsMyGitHub
+  - email address: ThisIsMe@yahoo.ca
+  - additional instructions:
+  234-567-8901

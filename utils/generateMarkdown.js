@@ -73,9 +73,9 @@ ${renderLicenseBadge(data.license)}
   ${data.testing}
 
 ## Questions
-  GitHub Username: ${data.github}
-  email address : ${data.email}
-  - additional instructions 
+  - GitHub Username: ${data.github}
+  - email address: ${data.email}
+  - additional instructions:
   ${data.contact}
 `;
 }
