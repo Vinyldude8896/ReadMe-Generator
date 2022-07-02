@@ -30,15 +30,13 @@ https://img.shields.io/badge/Cocoapods-License-blue
   just used for searching artists
 
 ## Contribution  
-  This was a group effort among 5 team members
+  None at the current time
 
 ## Testing
-  testing was done over a week to ensure successful data was returned.
-
-## Github 
-Vinyldude8896
+  Feel free to test multiple artist searches.
 
 ## Questions
-    kevinnivek@me.com
-    - 
-    cell: 222-555-9876
+  - GitHub Username: ThisIsMyGitHub
+  - email address: ThisIsMe@yahoo.ca
+  - additional instructions:
+  234-567-8901
