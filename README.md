@@ -35,6 +35,13 @@ Multiple days were spent testing to ensure proper data was being written to the 
 
 
 
+### 
+link to video on how this app works 
+
+https://drive.google.com/file/d/1OHUB3BqVI2gszOZbHd6y1ct1_7vX6X7W/view
+
+
+
 
 
 
