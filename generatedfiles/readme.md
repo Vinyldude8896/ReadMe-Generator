@@ -1,16 +1,16 @@
-# Music Artist Tours
+# Weather Dashboard
 
-## This app will allow you to search your favorite artists. It will return any current upcoming concert dates, a discograohy list, a few youTube search results. You can also link off to buy tickets or albums.
+## This app will provide you a daily and 5 day forecast of weather results based on the city searched.
 
 
   ## License
-  Cocoapods
+  Bower
   
-https://img.shields.io/badge/Cocoapods-License-blue
+https://img.shields.io/badge/Bower-License-blue
     
 
 ## badges
-![Cocoapods](https://img.shields.io/badge/Cocoapods-License-blue)
+![Bower](https://img.shields.io/badge/Bower-License-blue)
     
 
 
@@ -24,19 +24,19 @@ https://img.shields.io/badge/Cocoapods-License-blue
 - [Questions](#questions)
 
 ## Installation 
-  No need for an install. This can be ran as a web app in your browser. 
+  No need for installation. You can use the handy web app via the link. https://vinyldude8896.github.io/Weather-Dashboard/ 
 
 ## Usage
-  just used for searching artists
+  This is used for multiple city searches to gain weather results.
 
 ## Contribution  
-  None at the current time
+  None
 
 ## Testing
-  Feel free to test multiple artist searches.
+  Test multiple city searches.
 
 ## Questions
-  - GitHub Username: ThisIsMyGitHub
-  - email address: ThisIsMe@yahoo.ca
+  - GitHub Username: Vinyldude8896
+  - email address: kevinnivek@me.com
   - additional instructions:
-  234-567-8901
+  cell: 222-333-4444
