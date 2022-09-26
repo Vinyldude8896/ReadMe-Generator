@@ -1,6 +1,6 @@
-# Weather Dashboard
+# ReadMe Generator
 
-## This app will provide you a daily and 5 day forecast of weather results based on the city searched.
+## This Generates a Readme
 
 
   ## License
@@ -24,19 +24,19 @@ https://img.shields.io/badge/Bower-License-blue
 - [Questions](#questions)
 
 ## Installation 
-  No need for installation. You can use the handy web app via the link. https://vinyldude8896.github.io/Weather-Dashboard/ 
+  Copy the github repo 
 
 ## Usage
-  This is used for multiple city searches to gain weather results.
+  N/A
 
 ## Contribution  
-  None
+  Kevin Reid
 
 ## Testing
-  Test multiple city searches.
+  test
 
 ## Questions
   - GitHub Username: Vinyldude8896
   - email address: kevinnivek@me.com
   - additional instructions:
-  cell: 222-333-4444
+  none
